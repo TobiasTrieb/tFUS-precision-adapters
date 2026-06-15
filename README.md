@@ -36,8 +36,6 @@ The 3D models are uploaded in _.stl_ and _.f3d_ format. The latter is the native
 On our models, the plugs for the detachable tracker mounts are 0.2 mm smaller than the corresponding socket. The optimal tolerance for those parts to fit neatly together greatly depends on the specific 3D printer and fiber used. Therefore, we provide a set of plug-models varying in tolerance from 0 to 0.2 mm.
 
 ## Contributors
-Tobias Daniel Trieb (E-mail: triebt00@univie.ac.at)
-Franz Roman Schmid
-Elias Vogtenhuber
-
-We are not affiliated with manufacturers or distributors of tFUS transducer devices.
+- Tobias Daniel Trieb (E-mail: triebt00@univie.ac.at)
+- Franz Roman Schmid
+- Elias Vogtenhuber
